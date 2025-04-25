@@ -1,2 +1,0 @@
-hysteria2://wJFmsdlSyX@95.163.152.170:443?security=tls&obfs=salamander&obfs-password=SZJIE6gDorRMWuaxt4BRWLumwIXZR&insecure=1&sni=www.whatsapp.com#Hys2
-hysteria2://wJFmsdlSyX@95.163.152.170:443?security=tls&obfs=salamander&obfs-password=SZJIE6gDorRMWuaxt4BRWLumwIXZR&insecure=1&sni=www.bing.com#Hys2
